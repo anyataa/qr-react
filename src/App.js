@@ -42,3 +42,5 @@ class HandleQrInput extends React.Component{
 }
 
 
+
+
